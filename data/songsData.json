@@ -1,0 +1,86 @@
+{
+    "feliz": [
+        {
+            "title": "Happy",
+            "artist": "Pharrell Williams",
+            "src": "./public/audio/Pharrell Williams - Happy.mp3",
+            "image": "./public/images/songs/happy-pharrell-williams.jpg"
+        },
+        {
+            "title": "Can't Stop the Feeling!",
+            "artist": "Justin Timberlake",
+            "src": "./public/audio/Justin Timberlake - CAN'T STOP THE FEELING!.mp3",
+            "image": "./public/images/songs/Justin_Timberlake_-_Can't_Stop_the_Feeling.png"
+        }
+    ],
+    "triste": [
+        {
+            "title": "Fix You",
+            "artist": "Coldplay",
+            "src": "./public/audio/Coldplay - Fix You.mp3",
+            "image": "./public/images/songs/coldplay_fix-you.jpg"
+        },
+        {
+            "title": "Someone Like You",
+            "artist": "Adele",
+            "src": "./public/audio/Adele - Someone Like You.mp3",
+            "image": "./public/images/songs/adele-someone-like-you.webp"
+        }
+    ],
+    "energetico": [
+        {
+            "title": "Thunderstruck",
+            "artist": "AC/DC",
+            "src": "./public/audio/ACDC - Thunderstruck.mp3",
+            "image": "./public/images/songs/acdc-thunderstruck.jpg"
+        },
+        {
+            "title": "Eye of the Tiger",
+            "artist": "Survivor",
+            "src": "./public/audio/Survivor - Eye Of The Tiger.mp3",
+            "image": "./public/images/songs/survivor-eye-of-the-tiger.jpg"
+        }
+    ],
+    "relajado": [
+        {
+            "title": "恋は月の蔭に",
+            "artist": "Lamp",
+            "src": "./public/audio/恋は月の蔭に.mp3",
+            "image": "./public/images/songs/lamp-Koi-Ha-Tsuki-No-Kage-Ni.jpg"
+        },
+        {
+            "title": "Weightless",
+            "artist": "Marconi Union",
+            "src": "./public/audio/Marconi Union - Weightless.mp3",
+            "image": "./public/images/songs/marconi-union-weightless.jpg"
+        }
+    ],
+    "inspirado": [
+        {
+            "title": "Summer - Vivaldi: The Four Seasons",
+            "artist": "Vivaldi",
+            "src": "./public/audio/Antonio Vivaldi- The Four Seasons- Summer- Presto.mp3",
+            "image": "./public/images/songs/Antonio Vivaldi- The Four Seasons- Summer- Presto.jpg"
+        },
+        {
+            "title": "Imagine",
+            "artist": "John Lennon",
+            "src": "./public/audio/Imagine - John Lennon.mp3",
+            "image": "./public/images/songs/jhon-lennon-imagine.jpg"
+        }
+    ],
+    "estresado": [
+        {
+            "title": "Weightless",
+            "artist": "Marconi Union",
+            "src": "./public/audio/Marconi Union - Weightless.mp3",
+            "image": "./public/images/songs/marconi-union-weightless.jpg"
+        },
+        {
+            "title": "Clair de Lune",
+            "artist": "Claude Debussy",
+            "src": "./public/audio/Debussy - Clair de Lune.mp3",
+            "image": "./public/images/songs/debussy-clair-de-lune.jpg"
+        }
+    ]
+}

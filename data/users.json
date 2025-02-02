@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": "6749ef632323f",
+            "name": "admin",
+            "email": "admin@soundvibes.com",
+            "password": "$2y$10$SNX4tK.BpFumTrPCkL1CnudeH6KSQr.fmJ.mwX16wqhZnNg9zXmrm",
+            "role": "admin"
+        },
+        {
+            "id": "6749f1cfeb42b",
+            "name": "user",
+            "email": "user@gmail.com",
+            "password": "$2y$10$SNX4tK.BpFumTrPCkL1CnudeH6KSQr.fmJ.mwX16wqhZnNg9zXmrm",
+            "role": "user"
+        },
+        {
+            "id": "679f59ff338eb",
+            "name": "user2",
+            "email": "user2@gmail.com",
+            "password": "$2y$10$Sy5ixh7c6CJETHEHNUqEbelot1HkkUJ8jsosudL.SaTYKtfvfYgb2",
+            "role": "user"
+        },
+        {
+            "id": "679fb3bb167d0",
+            "name": "usr",
+            "email": "user3@gmail.com",
+            "password": "$2y$10$15KYCch5gCH0EKfpcatUAObF4Hy1vsRzHtKgw3jNjyHDTk8rO1RV.",
+            "role": "user"
+        }
+    ]
+}
