@@ -9,8 +9,9 @@ En esta parte, aparte de lo que se ha hecho en la parte 2(https://github.com/Fac
 
 2. Aplicar Estilos con TailwindCSS (se lleva aplicando desde la parte 1)
 
-Crear una interfaz amigable y moderna utilizando TailwindCSS, asegurando que se adapte a diferentes dispositivos.
-Integración de componentes como formularios, tablas y modales para mejorar la experiencia del usuario.
+- Crear una interfaz amigable y moderna utilizando TailwindCSS, asegurando que se adapte a diferentes dispositivos.
+- Integración de componentes como formularios, tablas y modales para mejorar la experiencia del usuario.
+
 
 
 ## TailwindCSS
