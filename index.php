@@ -1,6 +1,8 @@
 <?php
 session_start();
 
+// Comentario puesto desde Raspberry PI
+
 // Ruta de .json donde se encuentran los usuarios
 $usersFile = 'data/users.json';
 
