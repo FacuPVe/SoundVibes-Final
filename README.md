@@ -1,4 +1,4 @@
-# SoundVibes parte 2
+# SoundVibes parte Final
 
 En esta parte, aparte de lo que se ha hecho en la parte 2(https://github.com/FacuPVe/SoundVibes-02), se ha hecho lo siguiente:
 
