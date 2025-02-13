@@ -3,6 +3,8 @@ session_start();
 
 // Comentario puesto desde Raspberry PI
 
+// Comentario puesto desde VisualCode estando conectado a la Raspberry PI
+
 // Ruta de .json donde se encuentran los usuarios
 $usersFile = 'data/users.json';
 
